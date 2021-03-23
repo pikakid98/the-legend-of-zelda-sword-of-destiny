@@ -1,6 +1,6 @@
 ## The Legend Of Zelda: Sword Of Destiny
 
-#### [<<Return To Main Page](https://pikakid98.github.io/)
+#### [< Return To Main Page](https://pikakid98.github.io/)
 
 A terrible The Legend Of Zelda fangame that I made in 2013 with janky collisions, Janky controls, MS Paint graphics and midis
 
