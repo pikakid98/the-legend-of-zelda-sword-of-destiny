@@ -6,4 +6,4 @@
 
 v1.0
 
-[Binary (Windows)](https://github.com/pikakid98/the-legend-of-zelda-sword-of-destiny/releases/download/v1.0/The.Legend.Of.Zelda.Sword.Of.Destiny.v1.0.7z) | [Source Code](https://github.com/pikakid98/the-legend-of-zelda-sword-of-destiny/releases/download/v1.0/The.Legend.Of.Zelda.Sword.Of.Destiny.v1.0.7z)
+[Binary (Windows)](https://github.com/pikakid98/the-legend-of-zelda-sword-of-destiny/releases/download/v1.0/The.Legend.Of.Zelda.Sword.Of.Destiny.v1.0.7z) | [Source Code](https://github.com/pikakid98/the-legend-of-zelda-sword-of-destiny/archive/refs/tags/v1.0.zip)
