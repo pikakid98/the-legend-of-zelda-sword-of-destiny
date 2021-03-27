@@ -1,4 +1,4 @@
-## The Legend Of Zelda: Sword Of Destiny
+## Download
 
 #### [![home](https://user-images.githubusercontent.com/12392651/112510221-24100e00-8d89-11eb-86da-b13d203b4471.png)](https://pikakid98.github.io/) [![repo](https://user-images.githubusercontent.com/12392651/112510232-26726800-8d89-11eb-883c-902ff13536f9.png)](https://pikakid98.github.io/the-legend-of-zelda-sword-of-destiny)
 
